@@ -1,8 +1,9 @@
 import day19.Day19;
 import day20.Day20;
+import day21.Day21;
 
 public class Main {
     public static void main(String[] args) {
-        (new Day20()).smallSol();
+        (new Day21()).largeSol();
     }
 }
